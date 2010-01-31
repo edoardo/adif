@@ -1,0 +1,6 @@
+# robot stay away from this pages!
+User-agent: *
+Disallow: /generator.pl
+Disallow: /tmpl/
+Disallow: /docs/
+Disallow: /_old/

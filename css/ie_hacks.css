@@ -1,0 +1,18 @@
+/*
+   CSS hacks for IE
+   adif.interfree.it v1.0
+*/
+body
+{
+    behavior: url(/css/cssfocusandhover.htc);
+}
+
+#header h1
+{
+    height: 200px;
+}
+
+#header h3
+{
+    height: 63px;
+}

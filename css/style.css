@@ -1,0 +1,260 @@
+/*
+   CSS definitions
+   adif.interfree.it v1.0
+*/
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, Times, serif;
+    font-size: 12px;
+    background: url(/skins/default/bg_paper.png) repeat;
+}
+
+a
+{
+    color: #777777;
+}
+
+a:hover
+{
+    text-decoration: none;
+}
+
+abbr,
+acronym
+{
+    cursor: help;
+    border: 0;
+    font-style: italic;
+}
+
+img
+{
+    border: 0;
+}
+
+hr
+{
+    display: none;
+}
+
+.shortcut
+{
+    text-decoration: underline;
+}
+
+/* 1-level divs */
+#top
+{
+    clear: both;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#middle
+{
+    margin-left: 40px;
+    width: 650px;
+}
+
+#bottom
+{
+    clear: both;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #222222;
+    border-top: 3px #222222 solid;
+    border-bottom: 3px #222222 solid;
+}
+
+/* 2-level divs */
+#header
+{
+    margin-left: 40px;
+    width: 190px;
+    height: 285px;
+    color: #ffffff;
+    background: transparent url(/skins/default/r_shadow.gif) 0 0 repeat-y;
+}
+
+#header img
+{
+    display: none;
+}
+
+#header h1
+{
+    margin: 0;
+    padding: 20px 0 0 0;
+    width: 221px;
+    height: 180px;
+    background: transparent url(/skins/default/h1_logo.gif) left no-repeat;
+}
+
+#header h3
+{
+    margin: 0;
+    padding: 10px 0;
+    width: 181px;
+    height: 43px;
+    background: transparent url(/skins/default/h3_logo.gif) center no-repeat;
+    border-top: 1px #444444 solid;
+    border-bottom: 1px #444444 solid;
+}
+
+#header h1 span,
+#header h3 span
+{
+    display: none;
+}
+    
+#content
+{
+    position: relative;
+    top: -165px;
+    left: 40px;
+    width: 450px;
+    float: right;
+}
+
+#content h2
+{
+    margin-bottom: 30px;
+    font: bold italic 16px Arial, Tahoma, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 1px #a9a9a9 dotted;
+}
+
+#content h2 .sub_h2
+{
+    display: block;
+    padding: 5px 0;
+    font-size: 11px;
+    font-variant: normal;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+#content p
+{
+    line-height: 1.8em;
+    text-align: justify;
+    letter-spacing: 0.05em;
+}
+
+#content p.right
+{
+    text-indent: 0;
+    text-align: right;
+}
+
+#content ul li
+{
+    padding: 5px 0;
+}
+
+#content ol li
+{
+    padding: 3px 0;
+}
+
+#sidebar
+{
+    float: left;
+    width: 190px;
+    font: 11px Verdana, Tahoma, sans-serif;
+    color: #888888;
+    background: #222222 url(/skins/default/br_shadow.gif) bottom right no-repeat;
+}
+
+#sidebar h4
+{
+    margin: 12px 21px 12px 12px;
+    font: bold 12px Verdana, Tahoma, sans-serif;
+    text-indent: 10px;
+    letter-spacing: 0.1em;
+    border-bottom: 1px solid;
+}
+
+#sidebar h4:first-child
+{
+    padding-top: 16px;
+}
+
+#sidebar ul
+{
+    margin: 12px 21px 12px 12px;
+    padding: 0 6px 20px 6px;
+    list-style-type: none;
+}
+
+#sidebar ul li
+{
+    margin: 0;
+    padding: 12px 0 6px 0;
+    background: transparent url(/skins/default/li_off.gif) 0 12px no-repeat;
+    border-bottom: 1px #444444 solid;
+}
+
+#sidebar ul li:hover
+{
+    background: transparent url(/skins/default/li_on.gif) 0 12px no-repeat;
+}
+
+#sidebar a
+{
+    display: block;
+    color: #ffff00;
+    background-color: transparent;
+    text-decoration: none;
+    padding-left: 18px;
+}
+
+#sidebar a:hover
+{
+    text-decoration: underline;
+}
+
+#sidebar ul * .small
+{
+    display: block;
+    font: 9px Verdana, sans-serif;
+    padding-left: 18px;
+}
+
+#footer
+{
+    margin-left: 40px;
+    padding: 1px;
+    color: #666666;
+    font-size: 10px;
+}
+
+#footer a
+{
+    margin: 0;
+    padding: 0 3px 0 4px;
+    color: #666666;
+    text-decoration: none;
+    border: 1px solid;
+}
+
+#footer a:hover
+{
+    color: #888888;
+}
+
+#footer p
+{
+    display: inline;
+    position: relative;
+    top: 0;
+    left: 220px;
+    font: 9px Verdana, Arial, sans-serif;
+    letter-spacing: 0.1em;
+    word-spacing: 0.2em;
+}
