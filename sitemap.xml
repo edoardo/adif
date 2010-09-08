@@ -9,7 +9,7 @@
   <changefreq>monthly</changefreq>
  </url>
  <url>
-  <loc>http://adif.interfree.it/html/it/consigio_nazionale.html</loc>
+  <loc>http://adif.interfree.it/html/it/consiglio_nazionale.html</loc>
   <changefreq>monthly</changefreq>
  </url>
  <url>
@@ -22,6 +22,10 @@
  </url>
  <url>
   <loc>http://adif.interfree.it/html/it/convegni.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif.interfree.it/html/it/convegni_attivita_locali.html</loc>
   <changefreq>monthly</changefreq>
  </url>
  <url>
