@@ -22,6 +22,7 @@ my @aWebsite = (
     { page => 'consiglio_nazionale', title => 'Consiglio nazionale' },
     { page => 'lettera_segretaria', title => 'Lettera della segretaria nazionale' },
     { page => 'convegni', title => 'Convegni' },
+    { page => 'convegni_attivita_locali', title => 'Convegni e attivit&agrave; locali' },
     { page => 'convegno_2003', title => 'XIX Convegno Nazionale di Filosofia, settembre 2003, Cividale del Friuli' },
     { page => 'convegno_2005', title => 'XX Convegno Nazionale di Filosofia, ottobre 2005, Pescara' },
     { page => 'convegno_2007', title => 'XXI Convegno Nazionale di Filosofia, settembre 2007, Cividale del Friuli' },
