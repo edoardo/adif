@@ -20,6 +20,9 @@ my $cHtmlPath = 'html/'.$cLanguage;
 my @aWebsite = (
     { page => 'home', title => 'Associazione Docenti Italiani di Filosofia'  },
     { page => 'consiglio_nazionale', title => 'Consiglio nazionale' },
+    { page => 'consiglio_scientifico', title => 'Consiglio scientifico' },
+    { page => 'segreteria_di_redazione', title => 'Segreteria di redazione' },
+    { page => 'consiglio_di_redazione', title => 'Consiglio di redazione' },
     { page => 'lettera_segretaria', title => 'Lettera della segretaria nazionale' },
     { page => 'convegni', title => 'Convegni' },
     { page => 'convegni_attivita_locali', title => 'Convegni e attivit&agrave; locali' },
