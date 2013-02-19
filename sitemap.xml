@@ -13,6 +13,18 @@
   <changefreq>monthly</changefreq>
  </url>
  <url>
+  <loc>http://adif-italia.org/html/it/consiglio_scientifico.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/segreteria_di_redazione.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/consiglio_di_redazione.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
   <loc>http://adif-italia.org/html/it/contatti.html</loc>
   <changefreq>monthly</changefreq>
  </url>
@@ -29,10 +41,6 @@
   <changefreq>monthly</changefreq>
  </url>
  <url>
-  <loc>http://adif-italia.org/html/it/giornate_kantiane.html</loc>
-  <changefreq>monthly</changefreq>
- </url>
- <url>
   <loc>http://adif-italia.org/html/it/convegno_2003.html</loc>
   <changefreq>monthly</changefreq>
  </url>
@@ -42,10 +50,6 @@
  </url>
  <url>
   <loc>http://adif-italia.org/html/it/convegno_2007.html</loc>
-  <changefreq>monthly</changefreq>
- </url>
- <url>
-  <loc>http://adif-italia.org/html/it/lettera_segretaria.html</loc>
   <changefreq>monthly</changefreq>
  </url>
  <url>
