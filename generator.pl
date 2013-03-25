@@ -32,6 +32,8 @@ my @aWebsite = (
     { page => 'contatti', title => 'Contatti' },
     { page => 'info', title => 'Informazioni' },
     { page => 'statuto', title => 'Statuto' },
+    { page => 'rivista_per_la_filosofia/regolamento', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Regolamento' },
+    { page => 'rivista_per_la_filosofia/segreteria_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Segreteria di redazione' },
 );
 
 # Get next event (show in all pages)
