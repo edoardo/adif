@@ -13,23 +13,27 @@
   <changefreq>monthly</changefreq>
  </url>
  <url>
-  <loc>http://adif-italia.org/html/it/consiglio_scientifico.html</loc>
-  <changefreq>monthly</changefreq>
- </url>
- <url>
-  <loc>http://adif-italia.org/html/it/segreteria_di_redazione.html</loc>
-  <changefreq>monthly</changefreq>
- </url>
- <url>
-  <loc>http://adif-italia.org/html/it/consiglio_di_redazione.html</loc>
-  <changefreq>monthly</changefreq>
- </url>
- <url>
   <loc>http://adif-italia.org/html/it/contatti.html</loc>
   <changefreq>monthly</changefreq>
  </url>
  <url>
-  <loc>http://adif-italia.org/html/it/fascicoli_monografici.html</loc>
+  <loc>http://adif-italia.org/html/it/rivista_per_la_filosofia/regolamento.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/rivista_per_la_filosofia/comitato_scientifico.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/rivista_per_la_filosofia/comitato_di_redazione.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/rivista_per_la_filosofia/segreteria_di_redazione.html</loc>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://adif-italia.org/html/it/rivista_per_la_filosofia/fascicoli_monografici.html</loc>
   <changefreq>monthly</changefreq>
  </url>
  <url>
