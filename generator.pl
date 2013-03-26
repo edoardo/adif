@@ -27,7 +27,6 @@ my @aWebsite = (
     { page => 'convegno_2003', title => 'XIX Convegno Nazionale di Filosofia, settembre 2003, Cividale del Friuli' },
     { page => 'convegno_2005', title => 'XX Convegno Nazionale di Filosofia, ottobre 2005, Pescara' },
     { page => 'convegno_2007', title => 'XXI Convegno Nazionale di Filosofia, settembre 2007, Cividale del Friuli' },
-    { page => 'fascicoli_monografici', title => 'Fascicoli monografici della rivista' },
     { page => 'giornate_kantiane', title => 'Giornate Kantiane' },
     { page => 'contatti', title => 'Contatti' },
     { page => 'info', title => 'Informazioni' },
@@ -36,6 +35,7 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/comitato_scientifico', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Comitato scientifico' },
     { page => 'rivista_per_la_filosofia/comitato_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Comitato di redazione' },
     { page => 'rivista_per_la_filosofia/segreteria_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Segreteria di redazione' },
+    { page => 'rivista_per_la_filosofia/fascicoli_monografici', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Fascicoli monografici' },
 );
 
 # Get next event (show in all pages)
