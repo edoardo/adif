@@ -33,6 +33,8 @@ my @aWebsite = (
     { page => 'info', title => 'Informazioni' },
     { page => 'statuto', title => 'Statuto' },
     { page => 'rivista_per_la_filosofia/regolamento', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Regolamento' },
+    { page => 'rivista_per_la_filosofia/comitato_scientifico', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Comitato scientifico' },
+    { page => 'rivista_per_la_filosofia/comitato_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Comitato di redazione' },
     { page => 'rivista_per_la_filosofia/segreteria_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Segreteria di redazione' },
 );
 
