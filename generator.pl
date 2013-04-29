@@ -36,6 +36,8 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/comitato_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Comitato di redazione' },
     { page => 'rivista_per_la_filosofia/segreteria_di_redazione', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Segreteria di redazione' },
     { page => 'rivista_per_la_filosofia/fascicoli_monografici', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Fascicoli monografici' },
+    { page => 'rivista_per_la_filosofia/cv/michele_schiff', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Michele Schiff' },
+    { page => 'rivista_per_la_filosofia/cv/luca_valera', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Luca Valera' },
 );
 
 # Get next event (show in all pages)
