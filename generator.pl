@@ -38,6 +38,7 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/fascicoli_monografici', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - Fascicoli monografici' },
     { page => 'rivista_per_la_filosofia/cv/michele_schiff', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Michele Schiff' },
     { page => 'rivista_per_la_filosofia/cv/luca_valera', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Luca Valera' },
+    { page => 'rivista_per_la_filosofia/cv/vittorio_possenti', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Vittorio Possenti' },
 );
 
 # Get next event (show in all pages)
