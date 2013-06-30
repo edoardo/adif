@@ -39,6 +39,11 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/cv/michele_schiff', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Michele Schiff' },
     { page => 'rivista_per_la_filosofia/cv/luca_valera', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Luca Valera' },
     { page => 'rivista_per_la_filosofia/cv/vittorio_possenti', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Vittorio Possenti' },
+    { page => 'rivista_per_la_filosofia/cv/bernhard_koerner', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Bernhard Koerner' },
+    { page => 'rivista_per_la_filosofia/cv/dario_sacchi', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Dario Sacchi' },
+    { page => 'rivista_per_la_filosofia/cv/piero_viotto', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Piero Viotto' },
+    { page => 'rivista_per_la_filosofia/cv/vasile_musca', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Vasile Musca' },
+    { page => 'rivista_per_la_filosofia/cv/ovidiu_horea_pop', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Ovidiu Horea Pop' },
 );
 
 # Get next event (show in all pages)
