@@ -44,6 +44,8 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/cv/piero_viotto', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Piero Viotto' },
     { page => 'rivista_per_la_filosofia/cv/vasile_musca', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Vasile Musca' },
     { page => 'rivista_per_la_filosofia/cv/ovidiu_horea_pop', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Ovidiu Horea Pop' },
+    { page => 'rivista_per_la_filosofia/cv/marco_grusovin', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Marco Grusovin' },
+    { page => 'rivista_per_la_filosofia/cv/francesco_russo', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Francesco Russo' },
 );
 
 # Get next event (show in all pages)
