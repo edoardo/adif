@@ -46,6 +46,8 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/cv/ovidiu_horea_pop', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Ovidiu Horea Pop' },
     { page => 'rivista_per_la_filosofia/cv/marco_grusovin', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Marco Grusovin' },
     { page => 'rivista_per_la_filosofia/cv/francesco_russo', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Francesco Russo' },
+    { page => 'rivista_per_la_filosofia/cv/giorgia_salatiello', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Giorgia Salatiello' },
+    { page => 'rivista_per_la_filosofia/cv/maria_teresa_russo', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Maria Teresa Russo' },
 );
 
 # Get next event (show in all pages)
