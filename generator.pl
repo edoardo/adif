@@ -21,7 +21,6 @@ my @aWebsite = (
     { page => 'home', title => 'Associazione Docenti Italiani di Filosofia'  },
     { page => 'consiglio_nazionale', title => 'Consiglio nazionale' },
     { page => 'rivista_per_la_filosofia', title => 'Rivista "Per la filosofia - filosofia e insegnamento"' },
-    { page => 'lettera_segretaria', title => 'Lettera della segretaria nazionale' },
     { page => 'convegni', title => 'Convegni' },
     { page => 'convegni_attivita_locali', title => 'Convegni e attivit&agrave; locali' },
     { page => 'convegno_2003', title => 'XIX Convegno Nazionale di Filosofia, settembre 2003, Cividale del Friuli' },
