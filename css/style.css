@@ -162,6 +162,10 @@ hr
     padding: 3px 0;
 }
 
+ul.grouped-numbers li {
+    list-style-type: none;
+}
+
 #sidebar
 {
     float: left;
