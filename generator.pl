@@ -47,6 +47,7 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/cv/giorgia_salatiello', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Giorgia Salatiello' },
     { page => 'rivista_per_la_filosofia/cv/maria_teresa_russo', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Maria Teresa Russo' },
     { page => 'attivita_2017', title => 'Attivit&agrave; anno 2017' },
+    { page => 'attivita_2018', title => 'Attivit&agrave; anno 2018' },
 );
 
 # Get next event (show in all pages)
