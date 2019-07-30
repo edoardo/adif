@@ -48,6 +48,7 @@ my @aWebsite = (
     { page => 'rivista_per_la_filosofia/cv/maria_teresa_russo', title => 'Rivista "Per la filosofia - filosofia e insegnamento" - CV - Maria Teresa Russo' },
     { page => 'attivita_2017', title => 'Attivit&agrave; anno 2017' },
     { page => 'attivita_2018', title => 'Attivit&agrave; anno 2018' },
+    { page => 'attivita_2019', title => 'Attivit&agrave; anno 2019' },
 );
 
 # Get next event (show in all pages)
